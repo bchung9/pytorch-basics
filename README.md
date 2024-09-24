@@ -1,3 +1,3 @@
 # pytorch_course
 
-Following along a PyTorch 1-hour long video
+Following along a PyTorch 1-day long video (notes, exercises, code, etc.)
